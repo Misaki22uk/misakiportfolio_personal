@@ -1823,6 +1823,8 @@ body.modal{
 	.tokyo_tm_all_wrap .leftpart{width: 400px;}
 	.tokyo_tm_section{padding-left: 400px;}
 	.tokyo_tm_all_wrap .rightpart{padding-left: 400px;}
+	.tokyo_tm_mobile_menu .logo img {max-width: 2rem;}
+	.tokyo_tm_home .home_content {padding-top: 5rem;}
 }
 @media (max-width: 1200px) {
 	.tokyo_tm_mobile_menu{display: block;}
@@ -1849,6 +1851,7 @@ body.modal{
 	.tokyo_tm_modalbox_about .my_box{flex-direction: column;}
 	.tokyo_tm_modalbox_about .my_box .left{width: 100%;padding-right: 0px;margin-bottom: 50px;}
 	.tokyo_tm_modalbox_about .my_box .right{width: 100%;padding-left: 0px;}
+	.tokyo_tm_home .home_content {padding-top: 5rem;}
 }
 @media (max-width: 1040px) {
 	.mouse-cursor{display: none;}
@@ -1862,6 +1865,7 @@ body.modal{
 	.tokyo_tm_title .title_flex{flex-direction: column;align-items: flex-start;}
 	.tokyo_tm_title .portfolio_filter{padding-top: 48px;}
 	.container{padding: 0px 20px;}
+	.tokyo_tm_home .home_content {padding-top: 5rem;}
 	
 }
 @media (max-width: 768px) {
